@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--primary theme-->
+    <color name="colorPrimary">#f9a825</color>
+    <color name="colorPrimaryDark">#E19822</color>
+    <color name="colorAccent">#FBC02D</color>
+    <color name="colorSelectedItem">#33E19822</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+
+    <!--dark theme color-->
+    <color name="colorStatusBarDark">#0F1D24</color>
+    <color name="colorToolbarDark">#222D36</color>
+    <color name="colorAccentDark">#4e575d</color>
+    <color name="colorBackgroundDark">#101D24</color>
+
+    <!--others-->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextDefault">#292929</color>
+    <color name="colorTextDarkNavigation">#BDC0C3</color>
+    <color name="separator">#efefef</color>
+
+</resources>
